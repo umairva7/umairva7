@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <strong>CS Student @ University of Central Punjab</strong> | Lahore, Pakistan 🇵🇰<br>
+  <strong>CS Graduate @ University of Central Punjab</strong> | Lahore, Pakistan 🇵🇰<br>
   Obsessed with ML, AI, and turning data into real solutions
 </p>
 
